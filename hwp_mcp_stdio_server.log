@@ -1,0 +1,9 @@
+2025-04-17 08:35:46,639 - hwp-mcp-stdio-server - ERROR - Failed to import FastMCP: No module named 'mcp'
+2025-04-17 08:36:46,954 - hwp-mcp-stdio-server - INFO - FastMCP successfully imported
+2025-04-17 08:36:47,088 - hwp-mcp-stdio-server - INFO - HwpController imported successfully
+2025-04-17 08:36:47,095 - hwp-mcp-stdio-server - INFO - HwpTableTools imported successfully
+2025-04-17 08:36:47,133 - hwp-mcp-stdio-server - INFO - Starting HWP MCP stdio server
+2025-04-17 08:47:48,951 - hwp-mcp-stdio-server - INFO - FastMCP successfully imported
+2025-04-17 08:47:49,033 - hwp-mcp-stdio-server - INFO - HwpController imported successfully
+2025-04-17 08:47:49,036 - hwp-mcp-stdio-server - INFO - HwpTableTools imported successfully
+2025-04-17 08:47:49,086 - hwp-mcp-stdio-server - INFO - Starting HWP MCP stdio server
